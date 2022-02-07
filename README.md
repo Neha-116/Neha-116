@@ -1,5 +1,5 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/09/interactive-presentation-header-wide.gif)
-<h1 align="center">Hi 👋, I'm Neha 👩🏻.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Neha 👩🏻.</h1>
 <h3 align="center">A passionate Front-end Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif">
 
