@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bangeraneha_11" target="blank"><img src="https://img.shields.io/twitter/follow/bangeraneha_11?logo=twitter&style=for-the-badge" alt="bangeraneha_11" /></a> </p>
 
-- 💼 I’m currently working in **Torry Harris Business Solutions**
+- 💼 I’m currently working at **Torry Harris Business Solutions**
 
 - 🎓 I have completed my **B.E degree in Computer Science.**
 
