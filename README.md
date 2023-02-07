@@ -11,8 +11,6 @@
 
 - 🎓 I have completed my **B.E degree in Computer Science.**
 
-- 💬 Ask me about **Java, SQL.**
-
 - 📫 How to reach me **nehabangera1106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
