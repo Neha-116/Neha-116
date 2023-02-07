@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neha-116&label=Profile%20views&color=0e75b6&style=flat" alt="Neha-116" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bangeraneha_11" target="blank"><img src="https://img.shields.io/twitter/follow/bangeraneha_11?logo=twitter&style=for-the-badge" alt="bangeraneha_11" /></a> </p>
 
 - 💼 Working as a **Associate Software Engineer in THBS Bangalore.** 
 
